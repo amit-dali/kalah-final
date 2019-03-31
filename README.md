@@ -38,6 +38,8 @@ To run webapplication using JRE11;
 > java -jar kalah-0.0.1-SNAPSHOT.jar
 ```
 
+OR
+
 To run webapplication manually using maven;
 
 ```
