@@ -109,8 +109,8 @@ You can view application logs on the console as shown below;
 
 Optionally you can try run this webapplication in docker container (just tested till application start-up on centos linux, not tested the web application running on docker container):
 
-* Use Dockerfile from the root folder and build docker image, make sure bothe "kalah-0.0.1-SNAPSHOT.jar" and dockerfile are in same directory 
-* start docker container with the built imag
+* Use Dockerfile from the root folder (i.e. kalah-final) and build docker image, make sure both "kalah-0.0.1-SNAPSHOT.jar" and Dockerfile are in same directory 
+* start docker container with the built docker image on local
 ------
 
 ## Author
