@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bol.kalah.helpers.PitHelperTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.111 s - in com.bol.kalah.helpers.PitHelperTest
