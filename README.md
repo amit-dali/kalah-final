@@ -73,6 +73,7 @@ To generate/view unit test report execute following command:
 ```
 > mvn test
 ```
+![unti_test_result_summary](readme_img/unit_test_execute.png "Screenshot of unit test execution")
 
 Note*: Above command will execute unit test cases for the application and will generate unit test reports at following location under tracker project directory;
 
